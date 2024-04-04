@@ -1,11 +1,12 @@
 import "./App.css";
-import Counter from "./counter";
+import QuoteFetcher from "./QuoteFetcher";
+// import Counter from "./counter";
 
 function App() {
   return (
     <>
       <div>
-        <Counter />
+        <QuoteFetcher />
       </div>
     </>
   );
